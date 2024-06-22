@@ -1,0 +1,29 @@
+[0.000000] (-) TimerEvent: {}
+[0.001517] (-) JobUnselected: {'identifier': 'my_cpp_pkg'}
+[0.002336] (-) JobUnselected: {'identifier': 'my_py_pkg'}
+[0.002901] (-) JobUnselected: {'identifier': 'my_robot_interfaces'}
+[0.003180] (-) JobUnselected: {'identifier': 'pigpio'}
+[0.003286] (-) JobUnselected: {'identifier': 'py_pubsub'}
+[0.003363] (-) JobUnselected: {'identifier': 'turtlesim_catch_them_all'}
+[0.003436] (-) JobUnselected: {'identifier': 'turtlesim_project_cpp'}
+[0.003518] (my_robot_bringup) JobQueued: {'identifier': 'my_robot_bringup', 'dependencies': OrderedDict([('my_robot_interfaces', '/home/ubuntu/ros2_ws/install/my_robot_interfaces'), ('my_cpp_pkg', '/home/ubuntu/ros2_ws/install/my_cpp_pkg'), ('my_py_pkg', '/home/ubuntu/ros2_ws/install/my_py_pkg'), ('turtlesim_catch_them_all', '/home/ubuntu/ros2_ws/install/turtlesim_catch_them_all'), ('turtlesim_project_cpp', '/home/ubuntu/ros2_ws/install/turtlesim_project_cpp')])}
+[0.003635] (my_robot_bringup) JobStarted: {'identifier': 'my_robot_bringup'}
+[0.099347] (-) TimerEvent: {}
+[0.200076] (-) TimerEvent: {}
+[0.302193] (-) TimerEvent: {}
+[0.402920] (-) TimerEvent: {}
+[0.504000] (-) TimerEvent: {}
+[0.605175] (-) TimerEvent: {}
+[0.705925] (-) TimerEvent: {}
+[0.806773] (-) TimerEvent: {}
+[0.908989] (-) TimerEvent: {}
+[1.010096] (-) TimerEvent: {}
+[1.111660] (-) TimerEvent: {}
+[1.213426] (-) TimerEvent: {}
+[1.314531] (-) TimerEvent: {}
+[1.415302] (-) TimerEvent: {}
+[1.516656] (-) TimerEvent: {}
+[1.617699] (-) TimerEvent: {}
+[1.718833] (-) TimerEvent: {}
+[1.790705] (my_robot_bringup) JobEnded: {'identifier': 'my_robot_bringup', 'rc': 1}
+[1.793882] (-) EventReactorShutdown: {}

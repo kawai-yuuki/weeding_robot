@@ -1,0 +1,21 @@
+running develop
+running egg_info
+writing weeding_robot.egg-info/PKG-INFO
+writing dependency_links to weeding_robot.egg-info/dependency_links.txt
+writing entry points to weeding_robot.egg-info/entry_points.txt
+writing requirements to weeding_robot.egg-info/requires.txt
+writing top-level names to weeding_robot.egg-info/top_level.txt
+reading manifest file 'weeding_robot.egg-info/SOURCES.txt'
+writing manifest file 'weeding_robot.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/ubuntu/ros2_ws/install/weeding_robot/lib/python3.8/site-packages/weeding-robot.egg-link (link to .)
+Installing camera_detection script to /home/ubuntu/ros2_ws/install/weeding_robot/lib/weeding_robot
+Installing detection_client script to /home/ubuntu/ros2_ws/install/weeding_robot/lib/weeding_robot
+Installing driving_motor script to /home/ubuntu/ros2_ws/install/weeding_robot/lib/weeding_robot
+Installing front_sensor script to /home/ubuntu/ros2_ws/install/weeding_robot/lib/weeding_robot
+Installing rear_sensor script to /home/ubuntu/ros2_ws/install/weeding_robot/lib/weeding_robot
+Installing weeding_motor script to /home/ubuntu/ros2_ws/install/weeding_robot/lib/weeding_robot
+
+Installed /home/ubuntu/ros2_ws/build/weeding_robot
+running install_data
+copying package.xml -> /home/ubuntu/ros2_ws/install/weeding_robot/share/weeding_robot

@@ -1,0 +1,41 @@
+running develop
+Removing /home/ubuntu/ros2_ws/install/weeding_robot/lib/python3.8/site-packages/weeding-robot.egg-link (link to .)
+running egg_info
+writing ../../build/weeding_robot/weeding_robot.egg-info/PKG-INFO
+writing dependency_links to ../../build/weeding_robot/weeding_robot.egg-info/dependency_links.txt
+writing entry points to ../../build/weeding_robot/weeding_robot.egg-info/entry_points.txt
+writing requirements to ../../build/weeding_robot/weeding_robot.egg-info/requires.txt
+writing top-level names to ../../build/weeding_robot/weeding_robot.egg-info/top_level.txt
+reading manifest file '../../build/weeding_robot/weeding_robot.egg-info/SOURCES.txt'
+writing manifest file '../../build/weeding_robot/weeding_robot.egg-info/SOURCES.txt'
+running build
+running build_py
+copying weeding_robot/driving_motor.py -> /home/ubuntu/ros2_ws/build/weeding_robot/build/lib/weeding_robot
+copying weeding_robot/camera_detection.py -> /home/ubuntu/ros2_ws/build/weeding_robot/build/lib/weeding_robot
+copying weeding_robot/detection_client.py -> /home/ubuntu/ros2_ws/build/weeding_robot/build/lib/weeding_robot
+copying weeding_robot/weeding_motor.py -> /home/ubuntu/ros2_ws/build/weeding_robot/build/lib/weeding_robot
+running install
+running install_lib
+creating /home/ubuntu/ros2_ws/install/weeding_robot/lib/python3.8/site-packages/weeding_robot
+copying /home/ubuntu/ros2_ws/build/weeding_robot/build/lib/weeding_robot/sensor.py -> /home/ubuntu/ros2_ws/install/weeding_robot/lib/python3.8/site-packages/weeding_robot
+copying /home/ubuntu/ros2_ws/build/weeding_robot/build/lib/weeding_robot/driving_motor.py -> /home/ubuntu/ros2_ws/install/weeding_robot/lib/python3.8/site-packages/weeding_robot
+copying /home/ubuntu/ros2_ws/build/weeding_robot/build/lib/weeding_robot/camera_detection.py -> /home/ubuntu/ros2_ws/install/weeding_robot/lib/python3.8/site-packages/weeding_robot
+copying /home/ubuntu/ros2_ws/build/weeding_robot/build/lib/weeding_robot/__init__.py -> /home/ubuntu/ros2_ws/install/weeding_robot/lib/python3.8/site-packages/weeding_robot
+copying /home/ubuntu/ros2_ws/build/weeding_robot/build/lib/weeding_robot/detection_client.py -> /home/ubuntu/ros2_ws/install/weeding_robot/lib/python3.8/site-packages/weeding_robot
+copying /home/ubuntu/ros2_ws/build/weeding_robot/build/lib/weeding_robot/weeding_motor.py -> /home/ubuntu/ros2_ws/install/weeding_robot/lib/python3.8/site-packages/weeding_robot
+byte-compiling /home/ubuntu/ros2_ws/install/weeding_robot/lib/python3.8/site-packages/weeding_robot/sensor.py to sensor.cpython-38.pyc
+byte-compiling /home/ubuntu/ros2_ws/install/weeding_robot/lib/python3.8/site-packages/weeding_robot/driving_motor.py to driving_motor.cpython-38.pyc
+byte-compiling /home/ubuntu/ros2_ws/install/weeding_robot/lib/python3.8/site-packages/weeding_robot/camera_detection.py to camera_detection.cpython-38.pyc
+byte-compiling /home/ubuntu/ros2_ws/install/weeding_robot/lib/python3.8/site-packages/weeding_robot/__init__.py to __init__.cpython-38.pyc
+byte-compiling /home/ubuntu/ros2_ws/install/weeding_robot/lib/python3.8/site-packages/weeding_robot/detection_client.py to detection_client.cpython-38.pyc
+byte-compiling /home/ubuntu/ros2_ws/install/weeding_robot/lib/python3.8/site-packages/weeding_robot/weeding_motor.py to weeding_motor.cpython-38.pyc
+running install_data
+running install_egg_info
+Copying ../../build/weeding_robot/weeding_robot.egg-info to /home/ubuntu/ros2_ws/install/weeding_robot/lib/python3.8/site-packages/weeding_robot-0.0.0-py3.8.egg-info
+running install_scripts
+Installing camera_detection script to /home/ubuntu/ros2_ws/install/weeding_robot/lib/weeding_robot
+Installing detection_client script to /home/ubuntu/ros2_ws/install/weeding_robot/lib/weeding_robot
+Installing driving_motor script to /home/ubuntu/ros2_ws/install/weeding_robot/lib/weeding_robot
+Installing sensor script to /home/ubuntu/ros2_ws/install/weeding_robot/lib/weeding_robot
+Installing weeding_motor script to /home/ubuntu/ros2_ws/install/weeding_robot/lib/weeding_robot
+writing list of installed files to '/home/ubuntu/ros2_ws/build/weeding_robot/install.log'

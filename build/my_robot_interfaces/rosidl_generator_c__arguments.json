@@ -1,0 +1,40 @@
+{
+  "package_name": "my_robot_interfaces",
+  "output_dir": "/home/ubuntu/ros2_ws/build/my_robot_interfaces/rosidl_generator_c/my_robot_interfaces",
+  "template_dir": "/home/ubuntu/ros2_foxy/install/rosidl_generator_c/share/rosidl_generator_c/cmake/../resource",
+  "idl_tuples": [
+    "/home/ubuntu/ros2_ws/build/my_robot_interfaces/rosidl_adapter/my_robot_interfaces:msg/HardwareStatus.idl",
+    "/home/ubuntu/ros2_ws/build/my_robot_interfaces/rosidl_adapter/my_robot_interfaces:msg/LedStateArray.idl",
+    "/home/ubuntu/ros2_ws/build/my_robot_interfaces/rosidl_adapter/my_robot_interfaces:msg/Turtle.idl",
+    "/home/ubuntu/ros2_ws/build/my_robot_interfaces/rosidl_adapter/my_robot_interfaces:msg/TurtleArray.idl",
+    "/home/ubuntu/ros2_ws/build/my_robot_interfaces/rosidl_adapter/my_robot_interfaces:msg/Sensor.idl",
+    "/home/ubuntu/ros2_ws/build/my_robot_interfaces/rosidl_adapter/my_robot_interfaces:msg/RearSensor.idl",
+    "/home/ubuntu/ros2_ws/build/my_robot_interfaces/rosidl_adapter/my_robot_interfaces:srv/ComputeRectangleArea.idl",
+    "/home/ubuntu/ros2_ws/build/my_robot_interfaces/rosidl_adapter/my_robot_interfaces:srv/SetLed.idl",
+    "/home/ubuntu/ros2_ws/build/my_robot_interfaces/rosidl_adapter/my_robot_interfaces:srv/CatchTurtle.idl"
+  ],
+  "target_dependencies": [
+    "/home/ubuntu/ros2_foxy/install/rosidl_generator_c/share/rosidl_generator_c/cmake/../../../lib/rosidl_generator_c/rosidl_generator_c",
+    "/home/ubuntu/ros2_foxy/install/rosidl_generator_c/share/rosidl_generator_c/cmake/../../../lib/python3.8/site-packages/rosidl_generator_c/__init__.py",
+    "/home/ubuntu/ros2_foxy/install/rosidl_generator_c/share/rosidl_generator_c/cmake/../resource/action__type_support.h.em",
+    "/home/ubuntu/ros2_foxy/install/rosidl_generator_c/share/rosidl_generator_c/cmake/../resource/idl.h.em",
+    "/home/ubuntu/ros2_foxy/install/rosidl_generator_c/share/rosidl_generator_c/cmake/../resource/idl__functions.c.em",
+    "/home/ubuntu/ros2_foxy/install/rosidl_generator_c/share/rosidl_generator_c/cmake/../resource/idl__functions.h.em",
+    "/home/ubuntu/ros2_foxy/install/rosidl_generator_c/share/rosidl_generator_c/cmake/../resource/idl__struct.h.em",
+    "/home/ubuntu/ros2_foxy/install/rosidl_generator_c/share/rosidl_generator_c/cmake/../resource/idl__type_support.h.em",
+    "/home/ubuntu/ros2_foxy/install/rosidl_generator_c/share/rosidl_generator_c/cmake/../resource/msg__functions.c.em",
+    "/home/ubuntu/ros2_foxy/install/rosidl_generator_c/share/rosidl_generator_c/cmake/../resource/msg__functions.h.em",
+    "/home/ubuntu/ros2_foxy/install/rosidl_generator_c/share/rosidl_generator_c/cmake/../resource/msg__struct.h.em",
+    "/home/ubuntu/ros2_foxy/install/rosidl_generator_c/share/rosidl_generator_c/cmake/../resource/msg__type_support.h.em",
+    "/home/ubuntu/ros2_foxy/install/rosidl_generator_c/share/rosidl_generator_c/cmake/../resource/srv__type_support.h.em",
+    "/home/ubuntu/ros2_ws/build/my_robot_interfaces/rosidl_adapter/my_robot_interfaces/msg/HardwareStatus.idl",
+    "/home/ubuntu/ros2_ws/build/my_robot_interfaces/rosidl_adapter/my_robot_interfaces/msg/LedStateArray.idl",
+    "/home/ubuntu/ros2_ws/build/my_robot_interfaces/rosidl_adapter/my_robot_interfaces/msg/Turtle.idl",
+    "/home/ubuntu/ros2_ws/build/my_robot_interfaces/rosidl_adapter/my_robot_interfaces/msg/TurtleArray.idl",
+    "/home/ubuntu/ros2_ws/build/my_robot_interfaces/rosidl_adapter/my_robot_interfaces/msg/Sensor.idl",
+    "/home/ubuntu/ros2_ws/build/my_robot_interfaces/rosidl_adapter/my_robot_interfaces/msg/RearSensor.idl",
+    "/home/ubuntu/ros2_ws/build/my_robot_interfaces/rosidl_adapter/my_robot_interfaces/srv/ComputeRectangleArea.idl",
+    "/home/ubuntu/ros2_ws/build/my_robot_interfaces/rosidl_adapter/my_robot_interfaces/srv/SetLed.idl",
+    "/home/ubuntu/ros2_ws/build/my_robot_interfaces/rosidl_adapter/my_robot_interfaces/srv/CatchTurtle.idl"
+  ]
+}

@@ -1,0 +1,22 @@
+[31.772s] Invoking command in '/home/ubuntu/ros2_ws/src/turtlesim_catch_them_all': AMENT_PREFIX_PATH=/home/ubuntu/ros2_ws/install/my_robot_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ubuntu/ros2_ws/install/my_robot_interfaces:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/ubuntu/ros2_ws/install/my_robot_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/ubuntu/ros2_ws/build/turtlesim_catch_them_all/prefix_override:/home/ubuntu/ros2_ws/install/turtlesim_catch_them_all/lib/python3.8/site-packages:/home/ubuntu/ros2_ws/install/my_robot_interfaces/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/turtlesim_catch_them_all build --build-base /home/ubuntu/ros2_ws/build/turtlesim_catch_them_all/build install --record /home/ubuntu/ros2_ws/build/turtlesim_catch_them_all/install.log --install-scripts $base/lib/turtlesim_catch_them_all --single-version-externally-managed
+[38.597s] running egg_info
+[38.602s] writing ../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/PKG-INFO
+[38.603s] writing dependency_links to ../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/dependency_links.txt
+[38.604s] writing entry points to ../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/entry_points.txt
+[38.608s] writing requirements to ../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/requires.txt
+[38.608s] writing top-level names to ../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/top_level.txt
+[38.864s] reading manifest file '../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/SOURCES.txt'
+[38.887s] writing manifest file '../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/SOURCES.txt'
+[38.891s] running build
+[38.892s] running build_py
+[38.905s] running install
+[38.906s] running install_lib
+[38.960s] running install_data
+[38.961s] running install_egg_info
+[38.978s] removing '/home/ubuntu/ros2_ws/install/turtlesim_catch_them_all/lib/python3.8/site-packages/turtlesim_catch_them_all-0.0.0-py3.8.egg-info' (and everything under it)
+[38.979s] Copying ../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info to /home/ubuntu/ros2_ws/install/turtlesim_catch_them_all/lib/python3.8/site-packages/turtlesim_catch_them_all-0.0.0-py3.8.egg-info
+[39.000s] running install_scripts
+[39.187s] Installing turtle_spawner script to /home/ubuntu/ros2_ws/install/turtlesim_catch_them_all/lib/turtlesim_catch_them_all
+[39.207s] Installing turtlesim_controller script to /home/ubuntu/ros2_ws/install/turtlesim_catch_them_all/lib/turtlesim_catch_them_all
+[39.219s] writing list of installed files to '/home/ubuntu/ros2_ws/build/turtlesim_catch_them_all/install.log'
+[40.606s] Invoked command in '/home/ubuntu/ros2_ws/src/turtlesim_catch_them_all' returned '0': AMENT_PREFIX_PATH=/home/ubuntu/ros2_ws/install/my_robot_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ubuntu/ros2_ws/install/my_robot_interfaces:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/ubuntu/ros2_ws/install/my_robot_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/ubuntu/ros2_ws/build/turtlesim_catch_them_all/prefix_override:/home/ubuntu/ros2_ws/install/turtlesim_catch_them_all/lib/python3.8/site-packages:/home/ubuntu/ros2_ws/install/my_robot_interfaces/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/turtlesim_catch_them_all build --build-base /home/ubuntu/ros2_ws/build/turtlesim_catch_them_all/build install --record /home/ubuntu/ros2_ws/build/turtlesim_catch_them_all/install.log --install-scripts $base/lib/turtlesim_catch_them_all --single-version-externally-managed

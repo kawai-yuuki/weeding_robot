@@ -1,0 +1,14 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from my_robot_interfaces/msg/FrontSensor.msg
+// generated code does not contain a copyright notice
+
+
+module my_robot_interfaces {
+  module msg {
+    struct FrontSensor {
+      double front_sensor_data;
+
+      double rear_sensor_data;
+    };
+  };
+};

@@ -1,0 +1,31 @@
+[33.809s] Invoking command in '/home/ubuntu/ros2_ws/src/my_py_pkg': AMENT_PREFIX_PATH=/home/ubuntu/ros2_ws/install/my_robot_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ubuntu/ros2_ws/install/my_robot_interfaces:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/ubuntu/ros2_ws/install/my_robot_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/ubuntu/ros2_ws/build/my_py_pkg/prefix_override:/home/ubuntu/ros2_ws/install/my_py_pkg/lib/python3.8/site-packages:/home/ubuntu/ros2_ws/install/my_robot_interfaces/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_py_pkg build --build-base /home/ubuntu/ros2_ws/build/my_py_pkg/build install --record /home/ubuntu/ros2_ws/build/my_py_pkg/install.log --install-scripts $base/lib/my_py_pkg --single-version-externally-managed
+[40.389s] running egg_info
+[40.396s] writing ../../build/my_py_pkg/my_py_pkg.egg-info/PKG-INFO
+[40.398s] writing dependency_links to ../../build/my_py_pkg/my_py_pkg.egg-info/dependency_links.txt
+[40.399s] writing entry points to ../../build/my_py_pkg/my_py_pkg.egg-info/entry_points.txt
+[40.401s] writing requirements to ../../build/my_py_pkg/my_py_pkg.egg-info/requires.txt
+[40.402s] writing top-level names to ../../build/my_py_pkg/my_py_pkg.egg-info/top_level.txt
+[40.674s] reading manifest file '../../build/my_py_pkg/my_py_pkg.egg-info/SOURCES.txt'
+[40.676s] writing manifest file '../../build/my_py_pkg/my_py_pkg.egg-info/SOURCES.txt'
+[40.677s] running build
+[40.677s] running build_py
+[40.685s] running install
+[40.699s] running install_lib
+[40.722s] running install_data
+[40.725s] running install_egg_info
+[40.758s] removing '/home/ubuntu/ros2_ws/install/my_py_pkg/lib/python3.8/site-packages/my_py_pkg-0.0.0-py3.8.egg-info' (and everything under it)
+[40.758s] Copying ../../build/my_py_pkg/my_py_pkg.egg-info to /home/ubuntu/ros2_ws/install/my_py_pkg/lib/python3.8/site-packages/my_py_pkg-0.0.0-py3.8.egg-info
+[40.770s] running install_scripts
+[40.957s] Installing add_two_ints_client script to /home/ubuntu/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[40.958s] Installing add_two_ints_client_no_oop script to /home/ubuntu/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[40.960s] Installing add_two_ints_server script to /home/ubuntu/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[40.961s] Installing battery script to /home/ubuntu/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[40.962s] Installing hw_status_publisher script to /home/ubuntu/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[40.963s] Installing led_panel script to /home/ubuntu/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[40.965s] Installing number_counter script to /home/ubuntu/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[40.973s] Installing number_publisher script to /home/ubuntu/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[40.974s] Installing py_node script to /home/ubuntu/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[40.975s] Installing robot_news_station script to /home/ubuntu/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[40.992s] Installing smartphone script to /home/ubuntu/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[41.010s] writing list of installed files to '/home/ubuntu/ros2_ws/build/my_py_pkg/install.log'
+[41.501s] Invoked command in '/home/ubuntu/ros2_ws/src/my_py_pkg' returned '0': AMENT_PREFIX_PATH=/home/ubuntu/ros2_ws/install/my_robot_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ubuntu/ros2_ws/install/my_robot_interfaces:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/ubuntu/ros2_ws/install/my_robot_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/ubuntu/ros2_ws/build/my_py_pkg/prefix_override:/home/ubuntu/ros2_ws/install/my_py_pkg/lib/python3.8/site-packages:/home/ubuntu/ros2_ws/install/my_robot_interfaces/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_py_pkg build --build-base /home/ubuntu/ros2_ws/build/my_py_pkg/build install --record /home/ubuntu/ros2_ws/build/my_py_pkg/install.log --install-scripts $base/lib/my_py_pkg --single-version-externally-managed

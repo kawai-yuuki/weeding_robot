@@ -1,0 +1,101 @@
+-- The C compiler identification is GNU 9.4.0
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Looking for pthread.h
+-- Looking for pthread.h - found
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+-- Looking for pthread_create in pthreads
+-- Looking for pthread_create in pthreads - not found
+-- Looking for pthread_create in pthread
+-- Looking for pthread_create in pthread - found
+-- Found Threads: TRUE  
+-- Found rt: /usr/lib/aarch64-linux-gnu/librt.so  
+-- Performing Test COMPILER_HAS_HIDDEN_VISIBILITY
+-- Performing Test COMPILER_HAS_HIDDEN_VISIBILITY - Success
+-- Performing Test COMPILER_HAS_HIDDEN_INLINE_VISIBILITY
+-- Performing Test COMPILER_HAS_HIDDEN_INLINE_VISIBILITY - Failed
+-- Performing Test COMPILER_HAS_DEPRECATED_ATTR
+-- Performing Test COMPILER_HAS_DEPRECATED_ATTR - Success
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/ubuntu/ros2_ws/build/pigpio
+[35m[1mScanning dependencies of target pigpio[0m
+[35m[1mScanning dependencies of target pigpiod_if2[0m
+[35m[1mScanning dependencies of target pigpiod_if[0m
+[35m[1mScanning dependencies of target pigs[0m
+[  4%] [32mBuilding C object CMakeFiles/pigpiod_if2.dir/pigpiod_if2.c.o[0m
+[  8%] [32mBuilding C object CMakeFiles/pigpio.dir/pigpio.c.o[0m
+[ 13%] [32mBuilding C object CMakeFiles/pigpiod_if.dir/pigpiod_if.c.o[0m
+[ 17%] [32mBuilding C object CMakeFiles/pigs.dir/pigs.c.o[0m
+[ 21%] [32mBuilding C object CMakeFiles/pigpiod_if.dir/command.c.o[0m
+[ 26%] [32mBuilding C object CMakeFiles/pigs.dir/command.c.o[0m
+[ 30%] [32mBuilding C object CMakeFiles/pigpiod_if2.dir/command.c.o[0m
+[ 34%] [32m[1mLinking C shared library libpigpiod_if.so[0m
+[ 39%] [32m[1mLinking C shared library libpigpiod_if2.so[0m
+[ 43%] [32m[1mLinking C executable pigs[0m
+[ 43%] Built target pigpiod_if2
+[ 43%] Built target pigpiod_if
+[ 43%] Built target pigs
+[ 47%] [32mBuilding C object CMakeFiles/pigpio.dir/command.c.o[0m
+[ 52%] [32m[1mLinking C shared library libpigpio.so[0m
+[ 52%] Built target pigpio
+[35m[1mScanning dependencies of target x_pigpiod_if2[0m
+[ 56%] [32mBuilding C object CMakeFiles/x_pigpiod_if2.dir/x_pigpiod_if2.c.o[0m
+[ 60%] [32m[1mLinking C executable x_pigpiod_if2[0m
+[ 60%] Built target x_pigpiod_if2
+[35m[1mScanning dependencies of target x_pigpio[0m
+[ 65%] [32mBuilding C object CMakeFiles/x_pigpio.dir/x_pigpio.c.o[0m
+[ 69%] [32m[1mLinking C executable x_pigpio[0m
+[ 69%] Built target x_pigpio
+[35m[1mScanning dependencies of target pigpiod[0m
+[ 73%] [32mBuilding C object CMakeFiles/pigpiod.dir/pigpiod.c.o[0m
+[ 78%] [32m[1mLinking C executable pigpiod[0m
+[ 78%] Built target pigpiod
+[35m[1mScanning dependencies of target x_pigpiod_if[0m
+[ 82%] [32mBuilding C object CMakeFiles/x_pigpiod_if.dir/x_pigpiod_if.c.o[0m
+[ 86%] [32m[1mLinking C executable x_pigpiod_if[0m
+[ 86%] Built target x_pigpiod_if
+[35m[1mScanning dependencies of target pig2vcd[0m
+[ 91%] [32mBuilding C object CMakeFiles/pig2vcd.dir/pig2vcd.c.o[0m
+[ 95%] [32mBuilding C object CMakeFiles/pig2vcd.dir/command.c.o[0m
+[100%] [32m[1mLinking C executable pig2vcd[0m
+[100%] Built target pig2vcd
+-- Install configuration: ""
+-- Installing: /home/ubuntu/ros2_ws/install/pigpio/lib/libpigpio.so
+-- Installing: /home/ubuntu/ros2_ws/install/pigpio/lib/libpigpiod_if.so
+-- Installing: /home/ubuntu/ros2_ws/install/pigpio/lib/libpigpiod_if2.so
+-- Installing: /home/ubuntu/ros2_ws/install/pigpio/bin/pig2vcd
+-- Installing: /home/ubuntu/ros2_ws/install/pigpio/bin/pigpiod
+-- Set runtime path of "/home/ubuntu/ros2_ws/install/pigpio/bin/pigpiod" to ""
+-- Installing: /home/ubuntu/ros2_ws/install/pigpio/bin/pigs
+-- Installing: /home/ubuntu/ros2_ws/install/pigpio/lib/cmake/pigpio/pigpioTargets.cmake
+-- Installing: /home/ubuntu/ros2_ws/install/pigpio/lib/cmake/pigpio/pigpioTargets-noconfig.cmake
+-- Installing: /home/ubuntu/ros2_ws/install/pigpio/lib/cmake/pigpio/pigpioConfig.cmake
+-- Installing: /home/ubuntu/ros2_ws/install/pigpio/lib/cmake/pigpio/pigpioConfigVersion.cmake
+-- Installing: /home/ubuntu/ros2_ws/install/pigpio/include/pigpio.h
+-- Installing: /home/ubuntu/ros2_ws/install/pigpio/include/pigpiod_if.h
+-- Installing: /home/ubuntu/ros2_ws/install/pigpio/include/pigpiod_if2.h
+-- Installing: /home/ubuntu/ros2_ws/install/pigpio/man/man1/libpigpio.so.1
+-- Installing: /home/ubuntu/ros2_ws/install/pigpio/man/man1/libpigpiod_if.so.1
+-- Installing: /home/ubuntu/ros2_ws/install/pigpio/man/man1/libpigpiod_if2.so.1
+-- Installing: /home/ubuntu/ros2_ws/install/pigpio/man/man1/pig2vcd.1
+-- Installing: /home/ubuntu/ros2_ws/install/pigpio/man/man1/pigpiod.1
+-- Installing: /home/ubuntu/ros2_ws/install/pigpio/man/man1/pigs.1
+-- Installing: /home/ubuntu/ros2_ws/install/pigpio/man/man3/pigpio.3
+-- Installing: /home/ubuntu/ros2_ws/install/pigpio/man/man3/pigpiod_if.3
+-- Installing: /home/ubuntu/ros2_ws/install/pigpio/man/man3/pigpiod_if2.3
+running install
+running build
+running build_py
+creating build
+creating build/lib
+copying /home/ubuntu/ros2_ws/pigpio-master/pigpio.py -> build/lib
+running install_lib
+running install_egg_info
+Writing /usr/local/lib/python3.8/dist-packages/pigpio-1.44.egg-info
+error: [Errno 13] Permission denied: '/usr/local/lib/python3.8/dist-packages/pigpio-1.44.egg-info'

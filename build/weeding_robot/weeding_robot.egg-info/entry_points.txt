@@ -1,0 +1,7 @@
+[console_scripts]
+camera_detection = weeding_robot.camera_detection:main
+detection_client = weeding_robot.detection_client:main
+driving_motor = weeding_robot.driving_motor:main
+sensor = weeding_robot.sensor:main
+weeding_motor = weeding_robot.weeding_motor:main
+
