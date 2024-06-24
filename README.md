@@ -7,7 +7,7 @@ This is the source code of the weeding robot I made for my senior year graduatio
 
 ### Software
 Ubuntu 20.04  
-ROS2 Foxy
+ROS2 Foxy  
 
 ### Hardware
 Raspberry Pi 4B 4GB  
