@@ -6,11 +6,11 @@ This is the source code of the weeding robot I made for my senior year graduatio
 ## Requirement
 
 ### Software
-Ubuntu 20.04
+Ubuntu 20.04  
 ROS2 Foxy
 
 ### Hardware
-Raspberry Pi 4B 4GB
+Raspberry Pi 4B 4GB  
 Luxionis OAK-D S2 (fixed focus)
 
 
