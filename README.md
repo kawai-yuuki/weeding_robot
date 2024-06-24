@@ -16,7 +16,7 @@ Luxionis OAK-D S2 (fixed focus)
 
 
 ## Usage
-
+ros2 launch 
 ## Features
 
 ## Reference
