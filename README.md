@@ -9,6 +9,7 @@ This is the source code of the weeding robot I made for my senior year graduatio
 ### Software
 Ubuntu 20.04  
 ROS2 Foxy  
+roboflow
 
 ### Hardware
 Raspberry Pi 4B 4GB  
@@ -16,12 +17,16 @@ Luxionis OAK-D S2 (fixed focus)
 
 
 ## Usage
+```
 cd weeding_robot/src/my_robot_bringup/launch/weeding_robot.launch.py  
 ros2 launch weeding_robot weeding_robot.launch.py
+```
 ## Features
 
 ## Reference
 
 ## Author
-
+Name:Yuki Kawai  
+Tokyo Denki University  
+IoE/M2M solution lab
 ## Licence
