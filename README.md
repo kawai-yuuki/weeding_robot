@@ -16,7 +16,8 @@ Luxionis OAK-D S2 (fixed focus)
 
 
 ## Usage
-ros2 launch 
+cd weeding_robot/src/my_robot_bringup/launch/weeding_robot.launch.py  
+ros2 launch weeding_robot weeding_robot.launch.py
 ## Features
 
 ## Reference
