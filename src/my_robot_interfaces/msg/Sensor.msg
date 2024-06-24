@@ -1,2 +1,0 @@
-float64 front_sensor_data
-float64 rear_sensor_data
