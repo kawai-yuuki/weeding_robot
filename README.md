@@ -28,12 +28,20 @@ sudo pigpiod
 ros2 launch weeding_robot weeding_robot.launch.py
 ```
 ## Features
+
 It moves along the wall using two distance sensors and automatically removes weeds that grow between the ground and the wall.If no weeds are detected, the nylon cord cutter stops, reducing wasted energy consumption and flying debris.
+
 ## Reference
 
+https://www.udemy.com/course/ros2-for-beginners/?couponCode=ST18MT62524  
+https://www.amazon.co.jp/dp/B0C6W3G5K7?psc=1&ref=ppx_yo2ov_dt_b_product_details
+
 ## Author
-Name:Yuki Kawai  
+
+Yuki Kawai  
 Tokyo Denki University  
 IoE/M2M solution lab
+
 ## Licence
+
 The source code is licensed MIT. The website content is licensed CC BY 4.0,see LICENSE.
