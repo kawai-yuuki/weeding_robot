@@ -13,6 +13,7 @@ This is the source code of the weeding robot I made for my senior year graduatio
 Ubuntu 20.04  
 ROS2 Foxy  
 roboflow  
+pigpio  
 etc...
 
 ### Hardware
@@ -23,7 +24,7 @@ etc...
 
 ## Usage
 ```
-cd weeding_robot/src/my_robot_bringup/launch/weeding_robot.launch.py  
+sudo pigpiod
 ros2 launch weeding_robot weeding_robot.launch.py
 ```
 ## Features
