@@ -6,7 +6,7 @@ import numpy as np
 if __name__ == '__main__':
     # instantiating an object (rf) with the RoboflowOak module
     rf = RoboflowOak(model="weeds-tuhor", confidence=0.05, overlap=0.5,
-    version="1", api_key="SgN7kxjAfZ7qKQsNvFud", rgb=True,
+    version="1", api_key="", rgb=True,
     depth=False, device=None, blocking=True)
     # Running our model and displaying the video output with detections
     while True:
